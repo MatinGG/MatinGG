@@ -1,10 +1,5 @@
 <img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=M%40tinGG&animation=fadeIn&fontColor=00b4d8&fontSize=60" />
 
-<div align="center">
-  
-##### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&random=false&width=600&lines=Frontend+Developer;Backend+Developer;Web+Designer;Open+Source+Contributor;Passionate+about+Coding+%E2%99%A5%EF%B8%8F)
-
-</div>
 
 <h1 align="center">Hi there <img src="https://github.com/Daradege/Daradege/raw/refs/heads/main/hi.webp" width="35"></h1>
 
