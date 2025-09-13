@@ -11,7 +11,7 @@ I enjoy experimenting with **frontend + backend**, design, and automation.
 
 ## <img src="https://github.com/Daradege/Daradege/raw/refs/heads/main/code.webp" width="25"> Tools & Technologies
 
-![Tools & Technos](https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwindcss,python,git,github,vscode)
+![Tools & Technos](https://skillicons.dev/icons?i=html,css,js,nodejs,python,git,github,vscode)
 
 ---
 
