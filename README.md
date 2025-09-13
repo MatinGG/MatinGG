@@ -4,7 +4,7 @@
 <h1 align="center">Hi there <img src="https://github.com/Daradege/Daradege/raw/refs/heads/main/hi.webp" width="35"></h1>
 
 Hello! I'm **M@tinGG** 🚀  
-A passionate **Fullstack Developer** who loves building creative web apps and contributing to open-source.  
+A **Developer** who loves building creative web apps.  
 I enjoy experimenting with **frontend + backend**, design, and automation.  
 
 ---
@@ -24,14 +24,6 @@ I enjoy experimenting with **frontend + backend**, design, and automation.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatinGG&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MatinGG&theme=darkhub&column=7">
 </p>
 
 ---
