@@ -37,13 +37,16 @@ I enjoy experimenting with **frontend + backend**, design, and automation.
   <a href="https://github.com/MatinGG">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+<a href="https://vercel.com/matingg">
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</a>
 </p>
 
 
 ## 🌟 Fun Facts
 
 - 🖥️ I started coding with Visual Basics But I fell in love with HTML and CSS.  
-- 🎮 Love playing games when I’m not coding.  
+- 🎮 I Love playing game.  
 - 📚 Always exploring new technologies.  
 
 ---
@@ -53,7 +56,5 @@ I enjoy experimenting with **frontend + backend**, design, and automation.
 </div>
 
 <h3 align="center">
-  Thanks for visiting my profile! Feel free to reach out if you want to collaborate 🚀
+  Thanks for visiting my profile! 🚀
 </h3>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer" />
