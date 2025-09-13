@@ -8,7 +8,7 @@
 
 <h1 align="center">Hi there <img src="https://github.com/Daradege/Daradege/raw/refs/heads/main/hi.webp" width="35"></h1>
 
-Hello! I'm **Mohamad Matin Ghafari** (aka **M@tinGG**) 🚀  
+Hello! I'm **M@tinGG** 🚀  
 A passionate **Fullstack Developer** who loves building creative web apps and contributing to open-source.  
 I enjoy experimenting with **frontend + backend**, design, and automation.  
 
