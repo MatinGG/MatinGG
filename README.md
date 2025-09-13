@@ -1,4 +1,4 @@
-<img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Mohamad%20Matin%20Ghafari%20%7C%20M%40tinGG&animation=fadeIn&fontColor=fff&fontSize=60" />
+<img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=M%40tinGG&animation=fadeIn&fontColor=fff&fontSize=60" />
 
 <div align="center">
   
