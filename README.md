@@ -14,7 +14,6 @@ I enjoy experimenting with **frontend + backend**, design, and automation.
 ![Tools & Technos](https://skillicons.dev/icons?i=html,css,js,nodejs,python,git,github,vscode,gmail,vercel)
 
 ---
----
 
 ## 📫 Connect With Me
 
