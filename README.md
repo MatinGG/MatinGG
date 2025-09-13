@@ -14,18 +14,6 @@ I enjoy experimenting with **frontend + backend**, design, and automation.
 ![Tools & Technos](https://skillicons.dev/icons?i=html,css,js,nodejs,python,git,github,vscode,gmail,vercel)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatinGG&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatinGG&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatinGG&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## 📫 Connect With Me
@@ -43,18 +31,10 @@ I enjoy experimenting with **frontend + backend**, design, and automation.
 </p>
 
 
-## 🌟 Fun Facts
+## 🌟Facts
 
 - 🖥️ I started coding with Visual Basics But I fell in love with HTML and CSS.  
 - 🎮 I Love playing game.  
 - 📚 Always exploring new technologies.  
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MatinGG&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<h3 align="center">
-  Thanks for visiting my profile! 🚀
-</h3>
