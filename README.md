@@ -47,24 +47,12 @@ I enjoy experimenting with **frontend + backend**, design, and automation.
   </a>
 </p>
 
----
-
-## 🎯 Current Focus
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Web%20Development-FF6F61?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Open%20Source-1A73E8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-UI%2FUX%20Design-00C7B7?style=for-the-badge" />
-</p>
-
----
 
 ## 🌟 Fun Facts
 
-- 🖥️ I started coding with HTML & CSS and fell in love with it.  
+- 🖥️ I started coding with Visual Basics But I fell in love with HTML and CSS.  
 - 🎮 Love playing games when I’m not coding.  
 - 📚 Always exploring new technologies.  
-- ✨ Motto: *"Code, Learn, Repeat"*  
 
 ---
 
